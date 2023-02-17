@@ -1,4 +1,13 @@
-﻿Console.WriteLine("N\tN^2\tN^3\tN^2 + N^3");
+﻿/*
+ * Avigayil Sperka
+ * T00386137
+ * HW3 Part 2
+ * https://github.com/avigayilsperka/MCON368_HW3
+ */
+
+
+
+Console.WriteLine("N\tN^2\tN^3\tN^2 + N^3");
 
 for (var counter = 10; counter < 60; counter += 10)
 {
